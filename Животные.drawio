@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" modified="2023-12-08T12:03:59.577Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="bugcbxa2wTwhu34F4OrT" version="22.1.7" type="device">
+  <diagram name="Страница — 1" id="-Z3MUi47TJhmDqmiOURf">
+    <mxGraphModel dx="872" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="s0E-aQMt9zfbqTVjtdBD-1" value="&lt;h1 style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#983e3e&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#983e3e&quot; face=&quot;Times New Roman&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;Нарисовать диаграмму, в которой есть класс родительский класс, домашние&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;животные и вьючные животные, в составы которых в случае домашних&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;животных войдут классы: собаки, кошки, хомяки, а в класс вьючные животные&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;войдут: Лошади, верблюды и ослы)&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="50" y="10" width="740" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="s0E-aQMt9zfbqTVjtdBD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s0E-aQMt9zfbqTVjtdBD-4" target="s0E-aQMt9zfbqTVjtdBD-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0E-aQMt9zfbqTVjtdBD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s0E-aQMt9zfbqTVjtdBD-4" target="s0E-aQMt9zfbqTVjtdBD-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0E-aQMt9zfbqTVjtdBD-4" value="&lt;font color=&quot;#2c28f0&quot;&gt;Родительский класс:&lt;br&gt;ЖИВОТНЫЕ&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="130" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s0E-aQMt9zfbqTVjtdBD-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="s0E-aQMt9zfbqTVjtdBD-5" target="s0E-aQMt9zfbqTVjtdBD-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0E-aQMt9zfbqTVjtdBD-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s0E-aQMt9zfbqTVjtdBD-5" target="s0E-aQMt9zfbqTVjtdBD-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0E-aQMt9zfbqTVjtdBD-5" value="&lt;font color=&quot;#eb8d0a&quot;&gt;Домашние животные&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0E-aQMt9zfbqTVjtdBD-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s0E-aQMt9zfbqTVjtdBD-6" target="s0E-aQMt9zfbqTVjtdBD-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0E-aQMt9zfbqTVjtdBD-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s0E-aQMt9zfbqTVjtdBD-6" target="s0E-aQMt9zfbqTVjtdBD-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0E-aQMt9zfbqTVjtdBD-6" value="&lt;font color=&quot;#07a60a&quot;&gt;Вьючные животные&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0E-aQMt9zfbqTVjtdBD-7" value="&lt;font color=&quot;#cedb1a&quot;&gt;СОБАКИ&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s0E-aQMt9zfbqTVjtdBD-8" value="&lt;font color=&quot;#df34a1&quot;&gt;КОШКИ&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s0E-aQMt9zfbqTVjtdBD-10" value="&lt;font color=&quot;#bc6429&quot;&gt;ХОМЯКИ&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="380" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s0E-aQMt9zfbqTVjtdBD-11" value="&lt;font color=&quot;#8c8787&quot;&gt;ЛОШАДИ&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s0E-aQMt9zfbqTVjtdBD-12" value="&lt;font color=&quot;#ac5c02&quot;&gt;ВЕРБЛЮДЫ&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s0E-aQMt9zfbqTVjtdBD-13" value="&lt;font color=&quot;#2f2d2d&quot;&gt;ОСЛЫ&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="380" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s0E-aQMt9zfbqTVjtdBD-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.6;entryY=0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="s0E-aQMt9zfbqTVjtdBD-5" target="s0E-aQMt9zfbqTVjtdBD-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0E-aQMt9zfbqTVjtdBD-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.417;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="s0E-aQMt9zfbqTVjtdBD-6" target="s0E-aQMt9zfbqTVjtdBD-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
